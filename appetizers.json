@@ -2,103 +2,313 @@
   "request": [
     {
       "id": 1,
-      "name": "Acacia Bowl",
-      "description": "A refreshing blend of acai, banana, and granola.",
-      "price": 9.99,
+      "name": "Asian Chicken",
+      "description": "Grilled Asian chicken served with fresh vegetables.",
+      "price": 12.99,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d610510fb284150dda.png",
-      "protein": 6,
-      "carbs": 42,
-      "calories": 280
+      "protein": 28,
+      "carbs": 15,
+      "calories": 320
     },
     {
       "id": 2,
-      "name": "Asian Chicken",
-      "description": "Grilled chicken served with Asian-style vegetables.",
-      "price": 12.99,
+      "name": "Sushi",
+      "description": "Fresh sushi rolls with rice, fish, and vegetables.",
+      "price": 14.50,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6f411f3dad3e1bdc1.png",
-      "protein": 30,
-      "carbs": 18,
-      "calories": 350
+      "protein": 18,
+      "carbs": 35,
+      "calories": 280
     },
     {
       "id": 3,
-      "name": "Avocado Toast",
-      "description": "Toasted bread topped with smashed avocado, olive oil, and herbs.",
-      "price": 8.50,
+      "name": "Pho",
+      "description": "Vietnamese soup with noodles, herbs, and broth.",
+      "price": 11.25,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d61d8e8614e7eecf52.png",
-      "protein": 8,
-      "carbs": 28,
-      "calories": 260
+      "protein": 20,
+      "carbs": 42,
+      "calories": 350
     },
     {
       "id": 4,
-      "name": "Beto Bowl",
-      "description": "A hearty bowl of rice, beans, veggies, and grilled protein.",
-      "price": 11.99,
+      "name": "Burger",
+      "description": "Juicy grilled burger with lettuce, tomato, and cheese.",
+      "price": 10.99,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6357b4edd688f66ec.png",
-      "protein": 22,
-      "carbs": 55,
-      "calories": 480
+      "protein": 25,
+      "carbs": 30,
+      "calories": 500
     },
     {
       "id": 5,
-      "name": "Blueberry Pancakes",
-      "description": "Fluffy pancakes with fresh blueberries and syrup.",
-      "price": 10.99,
+      "name": "Chicken Noodles",
+      "description": "Stir-fried noodles with tender chicken and vegetables.",
+      "price": 9.99,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6a17f9746ae0ae184.png",
-      "protein": 9,
-      "carbs": 60,
-      "calories": 410
+      "protein": 22,
+      "carbs": 55,
+      "calories": 420
     },
     {
       "id": 6,
-      "name": "Burrito",
-      "description": "Classic burrito stuffed with rice, beans, cheese, and salsa.",
-      "price": 9.50,
+      "name": "Pork Chop",
+      "description": "Grilled pork chop seasoned with herbs and spices.",
+      "price": 13.50,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d68c4437db2fd0ab61.png",
-      "protein": 20,
-      "carbs": 65,
-      "calories": 520
+      "protein": 30,
+      "carbs": 5,
+      "calories": 350
     },
     {
       "id": 7,
-      "name": "Caesar Salad",
-      "description": "Romaine lettuce, parmesan cheese, and croutons with Caesar dressing.",
-      "price": 7.99,
+      "name": "Fruit Bowl",
+      "description": "Fresh seasonal fruit served in a chilled bowl.",
+      "price": 7.50,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d62a25a1c5c23018b6.png",
-      "protein": 7,
-      "carbs": 12,
-      "calories": 190
+      "protein": 2,
+      "carbs": 35,
+      "calories": 180
     },
     {
       "id": 8,
-      "name": "Chicken",
-      "description": "Simple grilled chicken breast, seasoned to perfection.",
-      "price": 10.25,
+      "name": "Grilled Chicken",
+      "description": "Classic grilled chicken breast served hot.",
+      "price": 11.25,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d64561e152dad5d95b.png",
-      "protein": 28,
+      "protein": 30,
       "carbs": 0,
-      "calories": 220
-    },
-    {
-      "id": 9,
-      "name": "Chicken Salad",
-      "description": "Fresh salad with grilled chicken, cucumbers, and tomatoes.",
-      "price": 9.99,
-      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d62a25a182e03018bc.png",
-      "protein": 18,
-      "carbs": 15,
       "calories": 250
     },
     {
+      "id": 9,
+      "name": "Pasta",
+      "description": "Traditional Italian pasta with marinara sauce.",
+      "price": 10.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d62a25a182e03018bc.png",
+      "protein": 12,
+      "carbs": 50,
+      "calories": 400
+    },
+    {
       "id": 10,
-      "name": "Chicken Sandwich",
-      "description": "Crispy chicken sandwich with lettuce, tomato, and mayo.",
-      "price": 11.50,
+      "name": "Avocado Toast",
+      "description": "Toasted bread topped with smashed avocado.",
+      "price": 8.50,
       "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d68c4437670ed0ab62.png",
-      "protein": 24,
+      "protein": 6,
+      "carbs": 25,
+      "calories": 240
+    },
+    {
+      "id": 11,
+      "name": "Chicken & Spinach",
+      "description": "Chicken breast served with sautéed spinach.",
+      "price": 12.25,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d610510f32ac150ddb.png",
+      "protein": 28,
+      "carbs": 4,
+      "calories": 280
+    },
+    {
+      "id": 12,
+      "name": "Buglioni",
+      "description": "Hearty Italian pasta with rich sauce.",
+      "price": 11.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d61d8e8667feeecf50.png",
+      "protein": 15,
+      "carbs": 48,
+      "calories": 380
+    },
+    {
+      "id": 13,
+      "name": "Chicken Leg",
+      "description": "Oven-roasted chicken leg with crispy skin.",
+      "price": 9.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d61d8e86e684eecf51.png",
+      "protein": 22,
+      "carbs": 0,
+      "calories": 290
+    },
+    {
+      "id": 14,
+      "name": "Orange Pasta",
+      "description": "Creamy orange pasta with parmesan cheese.",
+      "price": 12.25,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d64561e13432d5d95d.png",
+      "protein": 14,
+      "carbs": 45,
+      "calories": 370
+    },
+    {
+      "id": 15,
+      "name": "Green Pasta",
+      "description": "Spinach pasta tossed in light olive oil sauce.",
+      "price": 11.25,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d610510f1792150dd0.png",
+      "protein": 12,
+      "carbs": 42,
+      "calories": 360
+    },
+    {
+      "id": 16,
+      "name": "Sub Sandwich",
+      "description": "Classic sub sandwich with ham, cheese, and veggies.",
+      "price": 9.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6a17f9744950ae186.png",
+      "protein": 20,
       "carbs": 38,
-      "calories": 480
+      "calories": 410
+    },
+    {
+      "id": 17,
+      "name": "Burrito",
+      "description": "Flour tortilla filled with rice, beans, and beef.",
+      "price": 8.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d62a25a122ea3018bb.png",
+      "protein": 18,
+      "carbs": 50,
+      "calories": 420
+    },
+    {
+      "id": 18,
+      "name": "Fettuccini Pasta",
+      "description": "Creamy fettuccini pasta topped with parmesan.",
+      "price": 13.50,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6a17f97ef400ae187.png",
+      "protein": 16,
+      "carbs": 48,
+      "calories": 390
+    },
+    {
+      "id": 19,
+      "name": "Pancakes",
+      "description": "Stack of fluffy pancakes with syrup.",
+      "price": 7.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6a17f9791cb0ae183.png",
+      "protein": 8,
+      "carbs": 60,
+      "calories": 400
+    },
+    {
+      "id": 20,
+      "name": "Linguini",
+      "description": "Fresh linguini pasta with garlic and olive oil.",
+      "price": 12.25,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6f411f325a8e1bdc0.png",
+      "protein": 14,
+      "carbs": 52,
+      "calories": 380
+    },
+    {
+      "id": 21,
+      "name": "Shrimp Soup",
+      "description": "Soup made with shrimp, noodles, and broth.",
+      "price": 13.75,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6357b4e06458f66ed.png",
+      "protein": 20,
+      "carbs": 30,
+      "calories": 310
+    },
+    {
+      "id": 22,
+      "name": "Salmon",
+      "description": "Grilled salmon fillet served with lemon.",
+      "price": 14.50,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d61d8e864f79eecf5c.png",
+      "protein": 32,
+      "carbs": 0,
+      "calories": 320
+    },
+    {
+      "id": 23,
+      "name": "Asian Chicken",
+      "description": "Savory chicken with Asian spices.",
+      "price": 12.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6a17f9719720ae185.png",
+      "protein": 28,
+      "carbs": 15,
+      "calories": 320
+    },
+    {
+      "id": 24,
+      "name": "Chicken Tenders",
+      "description": "Crispy chicken tenders with dipping sauce.",
+      "price": 10.50,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d64561e1d8e4d5d95a.png",
+      "protein": 20,
+      "carbs": 22,
+      "calories": 360
+    },
+    {
+      "id": 25,
+      "name": "Shrimp Scampi",
+      "description": "Shrimp sautéed in garlic butter sauce with pasta.",
+      "price": 14.25,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6357b4e327d8f66ee.png",
+      "protein": 18,
+      "carbs": 35,
+      "calories": 370
+    },
+    {
+      "id": 26,
+      "name": "Cesar Salad",
+      "description": "Fresh Caesar salad with parmesan and croutons.",
+      "price": 8.75,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6f411f36364e1bdbf.png",
+      "protein": 6,
+      "carbs": 12,
+      "calories": 220
+    },
+    {
+      "id": 27,
+      "name": "Simple Sandwich",
+      "description": "Basic sandwich with meat, cheese, and lettuce.",
+      "price": 7.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d68c44371d52d0ab63.png",
+      "protein": 14,
+      "carbs": 28,
+      "calories": 300
+    },
+    {
+      "id": 28,
+      "name": "Lemon Pasta",
+      "description": "Pasta tossed in lemon cream sauce.",
+      "price": 11.50,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d610510f136f150dd8.png",
+      "protein": 12,
+      "carbs": 42,
+      "calories": 340
+    },
+    {
+      "id": 29,
+      "name": "Beef Sandwich",
+      "description": "Savory beef sandwich with onions and sauce.",
+      "price": 9.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d610510f31de150dd1.png",
+      "protein": 20,
+      "carbs": 35,
+      "calories": 390
+    },
+    {
+      "id": 30,
+      "name": "Duck",
+      "description": "Roast duck with crispy skin and herbs.",
+      "price": 16.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d610510f231e150dd9.png",
+      "protein": 34,
+      "carbs": 2,
+      "calories": 500
+    },
+    {
+      "id": 31,
+      "name": "Pancakes Simple",
+      "description": "Plain pancakes served with butter and syrup.",
+      "price": 6.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d64561e18037d5d95c.png",
+      "protein": 6,
+      "carbs": 55,
+      "calories": 350
     }
   ]
 }
