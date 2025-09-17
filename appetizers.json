@@ -1,0 +1,104 @@
+{
+  "request": [
+    {
+      "id": 1,
+      "name": "Acacia Bowl",
+      "description": "A refreshing blend of acai, banana, and granola.",
+      "price": 9.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d610510fb284150dda.png",
+      "protein": 6,
+      "carbs": 42,
+      "calories": 280
+    },
+    {
+      "id": 2,
+      "name": "Asian Chicken",
+      "description": "Grilled chicken served with Asian-style vegetables.",
+      "price": 12.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6f411f3dad3e1bdc1.png",
+      "protein": 30,
+      "carbs": 18,
+      "calories": 350
+    },
+    {
+      "id": 3,
+      "name": "Avocado Toast",
+      "description": "Toasted bread topped with smashed avocado, olive oil, and herbs.",
+      "price": 8.50,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d61d8e8614e7eecf52.png",
+      "protein": 8,
+      "carbs": 28,
+      "calories": 260
+    },
+    {
+      "id": 4,
+      "name": "Beto Bowl",
+      "description": "A hearty bowl of rice, beans, veggies, and grilled protein.",
+      "price": 11.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6357b4edd688f66ec.png",
+      "protein": 22,
+      "carbs": 55,
+      "calories": 480
+    },
+    {
+      "id": 5,
+      "name": "Blueberry Pancakes",
+      "description": "Fluffy pancakes with fresh blueberries and syrup.",
+      "price": 10.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d6a17f9746ae0ae184.png",
+      "protein": 9,
+      "carbs": 60,
+      "calories": 410
+    },
+    {
+      "id": 6,
+      "name": "Burrito",
+      "description": "Classic burrito stuffed with rice, beans, cheese, and salsa.",
+      "price": 9.50,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d68c4437db2fd0ab61.png",
+      "protein": 20,
+      "carbs": 65,
+      "calories": 520
+    },
+    {
+      "id": 7,
+      "name": "Caesar Salad",
+      "description": "Romaine lettuce, parmesan cheese, and croutons with Caesar dressing.",
+      "price": 7.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d62a25a1c5c23018b6.png",
+      "protein": 7,
+      "carbs": 12,
+      "calories": 190
+    },
+    {
+      "id": 8,
+      "name": "Chicken",
+      "description": "Simple grilled chicken breast, seasoned to perfection.",
+      "price": 10.25,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d64561e152dad5d95b.png",
+      "protein": 28,
+      "carbs": 0,
+      "calories": 220
+    },
+    {
+      "id": 9,
+      "name": "Chicken Salad",
+      "description": "Fresh salad with grilled chicken, cucumbers, and tomatoes.",
+      "price": 9.99,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d62a25a182e03018bc.png",
+      "protein": 18,
+      "carbs": 15,
+      "calories": 250
+    },
+    {
+      "id": 10,
+      "name": "Chicken Sandwich",
+      "description": "Crispy chicken sandwich with lettuce, tomato, and mayo.",
+      "price": 11.50,
+      "imageURL": "https://storage.googleapis.com/msgsndr/56bwxvdDZyKur4AZ1lNB/media/68cb04d68c4437670ed0ab62.png",
+      "protein": 24,
+      "carbs": 38,
+      "calories": 480
+    }
+  ]
+}
